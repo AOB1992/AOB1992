@@ -1,4 +1,4 @@
-<h1 align="center">HELLO 🙂 i am Alejandro Ohrnialian Bengolea </h1>
+<h1 align="center">WELCOME! 🙂 My name is  Alejandro Ohrnialian Bengolea </h1>
 <h3 align="center">Full-Stack Web Development // 🌐 JavaScript 🌐 ReactJs ⚛️ Redux ⚛️ Nodejs 💻 Express ✅ Sequelize </h3>
 
 <h4 align="center">I am a Full Stack Developer. My objective is to put myself to work as a FullStack Developer in the Fintech Industry.</h4>
