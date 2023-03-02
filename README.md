@@ -5,7 +5,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
-📝 I am a Full Stack Developer. My objective is to put myself to work as a FullStack Developer in the Fintech Industry. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+📝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
  
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/a-ob/
