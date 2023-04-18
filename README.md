@@ -11,7 +11,7 @@
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/a-ob/
 - 💭 Link to my EF SET Certificate: https://efset.org/cert/DYjvyB
 
-- Link to my Henry Certificate: 
+- Link to my Henry Certificate: https://certificates.soyhenry.com/new-cert?id=45638f7141708eab6aec3f23f2e751df511dd4b3b102e443feb2ebbe54d3cefc
 
 💻 *Languages and Tools:* 🛠️<br>
 
