@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME! 🙂 My name is  Alejandro Ohrnialian Bengolea </h1>
 <h3 align="center">Full-Stack Web Development // 🌐 JavaScript 🌐 ReactJs ⚛️ Redux ⚛️ Nodejs 💻 Express ✅ Sequelize </h3>
 
-<h4 align="center">I am a Full Stack Developer. My objective is to put myself to work as a FullStack Developer.</h4>
+<h4 align="center">FULL STACK DEVELOPER.</h4>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
