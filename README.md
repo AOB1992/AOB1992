@@ -5,7 +5,9 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
-📝 I have experience in both the fintech industry and the mobility industry<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+📝 Full-stack developer with a background in web design, sales and economy.  Experience working with Javascript, NodeJS, ExpressJS, React, Redux, SQL, and other industry technologies.
+I led a group that created an e-commerce site for selling technology products using agile methodologies and PERN stack, all via zoom meetings. The project had  good aesthetic and a robust server that provided product information, category filtering, log-in, and other capabilities. With creative thinking, problem-solving, teamwork, communication, and autonomy. 
+y<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
  
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/a-ob/
